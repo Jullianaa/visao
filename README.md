@@ -1,0 +1,1 @@
+Este projeto abordará técnicas de **Esteganografia** na disciplina de Tópicos Especiais em Engenharia de Software, no qual foram abordados estudos em [visão computacional](#https://github.com/glaucovitor/visao)
